@@ -1,0 +1,2 @@
+## spiegel.de
+- remove ads
