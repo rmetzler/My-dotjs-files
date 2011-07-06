@@ -1,3 +1,1 @@
-jQuery('div.spCommercial').remove()
-jQuery('#qcTop1').remove()
-jQuery('#spColumnAd').remove()
+jQuery('#qcTop1, #spColumnAd, .spCommercial, .spMInline').remove()
