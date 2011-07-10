@@ -1,0 +1,1 @@
+$('#bannerzone, .bcadv').remove();
