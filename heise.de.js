@@ -1,1 +1,1 @@
-$('#bannerzone, .bcadv').remove();
+$('#bannerzone, .bcadv, .naviad').remove();

@@ -1,0 +1,1 @@
+$('.ban_top, .right-site-ban, .bannerRight').remove()

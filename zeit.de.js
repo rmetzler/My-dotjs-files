@@ -1,1 +1,1 @@
-jQuery('.ad').remove()
+jQuery('.ad, .eyeDiv').remove()
