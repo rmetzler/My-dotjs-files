@@ -1,0 +1,1 @@
+$('#CAD_AD, #LREC_AD, #N_AD').remove()
