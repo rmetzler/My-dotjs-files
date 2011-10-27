@@ -1,0 +1,1 @@
+$('#google_ads_div_BH_300x250_ad_container').remove()
