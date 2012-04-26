@@ -1,1 +1,1 @@
-jQuery('.ad, .eyeDiv, #iqdStyleFlashbuehneZOL, .iqdStyleAnzeigeZOL').remove()
+jQuery('.ad, .eyeDiv, #iqdStyleFlashbuehneZOL, .iqdStyleAnzeigeZOL, #iqdSidebar').remove()
