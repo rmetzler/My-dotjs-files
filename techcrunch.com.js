@@ -1,0 +1,1 @@
+jQuery('.nocontent').remove()
